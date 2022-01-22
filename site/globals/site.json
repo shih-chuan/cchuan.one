@@ -1,0 +1,19 @@
+{
+    "name": "Shih-Chuan",
+    "url": "https://cchuan.one",
+    "author": {
+        "name": "Shih-Chuan, Chiu",
+        "handle": "Shih-Chuan, Chiu"
+    },
+    "images": {
+        "favicon": "/favicon.png",
+        "favicon_svg": "/favicon.svg",
+        "apple_touch_icon": "/images/meta/apple-touch-icon.png",
+        "twitter": "/images/meta/twitter.png",
+        "og": "/images/meta/og.png"
+    },
+    "social_links": {
+        "github": "https://github.com/shih-chuan",
+        "facebook": "https://www.facebook.com/shihchuan.4all"
+    }
+}

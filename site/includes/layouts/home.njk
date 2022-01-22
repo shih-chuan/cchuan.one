@@ -1,0 +1,44 @@
+---
+layout: base
+pagination:
+    data: collections.blog
+    size: 2
+    alias: blogs
+---
+
+<main id="main" class="main home inner box-flex pt-400" tabindex="-1">
+    <div class="left">
+        <div class="mb-700">
+            <h4>HEY, I'M</h4>
+            <h1 class="name">Shih-Chuan</h1>
+            {% if sub_heading %}
+                <p class="sub-heading">{{ sub_heading }}</p>
+            {% endif %}
+        </div>
+        <div class="mb-600">
+            <h4 class="pb-300">RECENT POSTS</h4>
+            <div class="card-deck">
+                {% for post in blogs %}
+                    <a href="{{ post.url }}" class="homecard bg-white pt-400 pb-300 pl-400 pr-400">
+                        <div class="homecard-categories">
+                        {% for item in post.data.tags %}
+                            {%- if item !== 'blog' -%}
+                                <span class="category box-block bg-secondary color-white font-bold text-300">{{ item | capitalize }}</span>
+                            {%- endif -%}
+                        {% endfor %}
+                        </div>
+                        <div class="homecard-content pt-300 pb-300">
+                            <h2 class="text-600 pb-300 homecard-title-link color-primary hover-color-secondary">
+                                {{ post.data.title }}
+                            </h2>
+                            <time class="datetime color-grey text-400" datetime="{{ post.date | timestamp }}">
+                                {{ post.date | dateDisplay }}
+                            </time>
+                        </div>
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <img src="/images/avatar.svg" class="avatar"/>
+</main>

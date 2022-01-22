@@ -1,0 +1,11 @@
+<svg width="361.24mm" height="180.62mm" version="1.1" viewBox="0 0 361.24 180.62" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(76.778 -16.059)">
+  <rect x="-76.778" y="16.059" width="361.24" height="180.62" rx=".2037" ry="1.5348" fill="#212230" fill-rule="evenodd" stroke-dashoffset="1.0016" stroke-linecap="square" stroke-width=".052917" style="paint-order:markers fill stroke"/>
+  <g transform="translate(-112.63 38.179)">
+   <g transform="matrix(2.5959 0 0 2.5959 141.42 47.216)" fill="none" stroke-width=".10192">
+    <path d="m1.6582 0c-0.91855 0-1.6582 0.73965-1.6582 1.6582v12.684c0 0.91855 0.73965 1.6582 1.6582 1.6582h12.684c0.91855 0 1.6582-0.73966 1.6582-1.6582v-12.684c0-0.91855-0.73966-1.6582-1.6582-1.6582zm6.5723 2.4219a5.5771 5.5771 0 0 1 4.7246 2.6191l-1.6934 1.2188-0.79492 0.56836a2.5252 2.5252 0 0 0-2.2363-1.3535 2.5252 2.5252 0 0 0-2.5254 2.5254 2.5252 2.5252 0 0 0 2.5254 2.5234 2.5252 2.5252 0 0 0 2.3379-1.582l1.0059 0.45312 1.7734 0.80273a5.5771 5.5771 0 0 1-5.1172 3.3789 5.5771 5.5771 0 0 1-5.5781-5.5762 5.5771 5.5771 0 0 1 5.5781-5.5781z" fill="#5c95ff" stroke-width=".012045" style="paint-order:markers stroke fill"/>
+   </g>
+   <text x="187.51662" y="79.50827" fill="#000000" font-family="'Microsoft Yi Baiti'" font-size="31.638px" letter-spacing="1.5819px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="187.51662" y="79.50827" fill="#ffffff" font-family="'Yu Gothic UI'" font-weight="bold" stroke-width=".26458">Chuan</tspan></text>
+  </g>
+ </g>
+</svg>

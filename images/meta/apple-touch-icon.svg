@@ -1,0 +1,9 @@
+<svg width="63.5mm" height="63.5mm" version="1.1" viewBox="0 0 63.5 63.5" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-35.204 -17.006)">
+  <rect x="35.204" y="17.006" width="63.5" height="63.5" rx=".035806" ry=".53957" fill="#212230" fill-rule="evenodd" stroke-dashoffset="1.0016" stroke-linecap="square" stroke-width=".052917" style="paint-order:markers fill stroke"/>
+  <g transform="matrix(1.359 0 0 1.359 56.082 37.884)" fill="none" stroke-width=".19469">
+   <path d="m1.6582 0c-0.91855 0-1.6582 0.73965-1.6582 1.6582v12.684c0 0.91855 0.73965 1.6582 1.6582 1.6582h12.684c0.91855 0 1.6582-0.73966 1.6582-1.6582v-12.684c0-0.91855-0.73966-1.6582-1.6582-1.6582zm6.5723 2.4219a5.5771 5.5771 0 0 1 4.7246 2.6191l-1.6934 1.2188-0.79492 0.56836a2.5252 2.5252 0 0 0-2.2363-1.3535 2.5252 2.5252 0 0 0-2.5254 2.5254 2.5252 2.5252 0 0 0 2.5254 2.5234 2.5252 2.5252 0 0 0 2.3379-1.582l1.0059 0.45312 1.7734 0.80273a5.5771 5.5771 0 0 1-5.1172 3.3789 5.5771 5.5771 0 0 1-5.5781-5.5762 5.5771 5.5771 0 0 1 5.5781-5.5781z" fill="#5c95ff" stroke-width=".023009" style="paint-order:markers stroke fill"/>
+  </g>
+ </g>
+ <style>@media (prefers-color-scheme: light) {.favicon { fill: #DB5461 }}</style>
+</svg>
